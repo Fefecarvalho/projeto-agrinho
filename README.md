@@ -1,5 +1,5 @@
 # Produções Agrícolas no Paraná
-Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase no milho, que é um dos desteque de produção  na cidade de cambará e região. No site encontramos informações sobre a origem do milho, soja e também receitas onde eles são as matérias primas.
+Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase no milho, que é um dos desteque de produção  na cidade de Cambará e região. No site encontramos informações sobre a origem do milho e soja e também receitas onde eles são as matérias primas. Cada página tem detalhes, que trás informações objetivas e diretas sobre o uso do milho e da soja como por exemplo receitas bolo, pamonha, etc...
 ### Estrutura do Projeto
 Tecnologias Utilizadas:
 * HTML: Estrutura principal da página.
