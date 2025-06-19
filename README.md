@@ -103,7 +103,6 @@ Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase
 * Ícones de redes sociais;
 * Data e nome.
 
-
 #### Receitas
 
 ##### Cabeçalho (Header):
@@ -112,7 +111,154 @@ Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase
 
 ##### Informações
 * Título da página: Receitas Culinárias;
-* Cards com links para acesso das receitas (Pamonha, Bolo de milho, Creme de milho, Carne moída de soja, Tufu caseiro, Strogonoff).
+* Cards com links para acesso das receitas (Pamonha, Bolo de milho, Creme de milho, Carne moída de soja, Tofu caseiro, Strogonoff).
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Pamonha
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Pamonha salgada;
+* Foto;
+* Informações;
+* Ingredientes;
+* Modo de trabalho;
+* Avalie a receita.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Bolo de milho
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Bolo de milho;
+* Foto;
+* Informações;
+* Ingredientes;
+* Modo de trabalho;
+* Avalie a receita.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Creme de milho
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Creme de milho;
+* Foto;
+* Informações;
+* Ingredientes;
+* Modo de trabalho;
+* Avalie a receita.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Carne moída de soja
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Carne moída de soja;
+* Foto;
+* Informações;
+* Ingredientes;
+* Modo de trabalho;
+* Avalie a receita.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Tofu Caseiro
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Tofu caseiro;
+* Foto;
+* Informações;
+* Ingredientes;
+* Modo de trabalho;
+* Avalie a receita.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Strogonoff de soja
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Strogonoff de soja;
+* Foto;
+* Informações;
+* Ingredientes;
+* Modo de trabalho;
+* Avalie a receita.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### 30 anos
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Imagem com 30 anos do agrinho;
+* Opinião sobre o concurso;
+* Card sobre o concurso;
+* Informações (História, objetivo e importância para as escolas).
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Sobre mim
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Foto;
+* Nome;
+* Algumas informações sobre mim.
   
 ##### Rodapé (Footer):
 * Ícones de redes sociais;
@@ -122,6 +268,12 @@ Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase
 * https://www.flaticon.com/
 * https://www.circulandoaqui.com.br/noticia/1766/tudo-pronto-para-a-festa-do-milho-verde-de-cambara
 * https://www.circulandoaqui.com.br/noticia/49072/tradicional-festa-do-milho-verde-de-cambara-encerra-primeiro-final-de-semana-com-sucesso
+* https://stock.adobe.com/br/search?k=%22pamonha+with+cheese%22
+* https://anamariabrogui.com.br/receita/molho-de-milho-de-latinha-sem-trigo-e-bem-fofinho-e-molhadinho-c9ed0f76
+* https://guiadacozinha.com.br/receitas/faca-a-receita-de-creme-de-milho-facil-que-fica-pronto-em-20-minutos/
+* https://www.tudogostoso.com.br/receita/161116-carne-moida-de-soja-especial-com-segredinho-para-tirar-o-sabor-forte.html
+* https://dietas-alimentares.com.br/tofu-e-vegano-tudo-o-que-voce-precisa-saber-sobre-este-produto-de-soja-embalado-com-proteinas/
+* https://www.tudogostoso.com.br/receita/118683-estrogonofe-de-carne-de-soja.html
 
 #### Licença
 Este projeto está licenciado sob a MIT License.
