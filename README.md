@@ -25,6 +25,10 @@ Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase
 * trinta.html: Arquivo com informações dos 30 anos do agrinho.
 * style.css: Arquivo de estilos para formatação das páginas.
 
+# Descrição das Seções
+#### Página inicial:
+* Título da página inicial: Produções agrícolas em Cambará
+
 #### Crédito das imagens:
 * 
 
