@@ -30,14 +30,98 @@ Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase
 
 ##### Cabeçalho (Header):
 * Logo (com hyperlink para a página inicial); 
-* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuri.
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
 
+##### Inicio
 * Título da página inicial: Produções agrícolas em Cambará;
-* Vídeo introdutório de fazenda em Cambará;
+* Vídeo de fundo de fazenda em Cambará;
 * Botão de acesso as informações da festa do milho;
-* Botão de acesso as entrevistas com produtores locais
+* Botão de acesso as entrevistas com produtores locais.
+
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+#### Festa do milho
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Festa do milho em Cambará;
+* Parágrafo informativo;
+* Cardapio;
+* Imagens das festas anteriores.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+#### Entrevistas
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Entrevista com produtores locais;
+* Informações do entrevistados;
+* Entrevistas.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+#### Milho
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: O milho na economia Paranaense;
+* Informações sobre o grão (Origem, como chegou ao brasil, o milho no paraná, cidades destaque);
+* Mapa e imagem.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+#### Soja
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: A soja na economia Paranaense;
+* Informações sobre o grão (Origem, como chegou ao brasil, a soja no paraná, cidades destaque);
+* Mapa e imagem.
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
+
+#### Receitas
+
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuro.
+
+##### Informações
+* Título da página: Receitas Culinárias;
+* Cards com links para acesso das receitas (Pamonha, Bolo de milho, Creme de milho, Carne moída de soja, Tufu caseiro, Strogonoff).
+  
+##### Rodapé (Footer):
+* Ícones de redes sociais;
+* Data e nome.
+
 #### Crédito das imagens:
-* 
+* https://www.flaticon.com/
+* https://www.circulandoaqui.com.br/noticia/1766/tudo-pronto-para-a-festa-do-milho-verde-de-cambara
+* https://www.circulandoaqui.com.br/noticia/49072/tradicional-festa-do-milho-verde-de-cambara-encerra-primeiro-final-de-semana-com-sucesso
 
 #### Licença
 Este projeto está licenciado sob a MIT License.
