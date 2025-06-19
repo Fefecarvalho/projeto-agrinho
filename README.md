@@ -27,8 +27,15 @@ Esse site tem por objetivo informar sobre as produções agrícolas, com ênfase
 
 # Descrição das Seções
 #### Página inicial:
-* Título da página inicial: Produções agrícolas em Cambará
 
+##### Cabeçalho (Header):
+* Logo (com hyperlink para a página inicial); 
+* Links: links para as páginas milho, soja, receitas, 30 anos, sobre mim, botão modo claro/escuri.
+
+* Título da página inicial: Produções agrícolas em Cambará;
+* Vídeo introdutório de fazenda em Cambará;
+* Botão de acesso as informações da festa do milho;
+* Botão de acesso as entrevistas com produtores locais
 #### Crédito das imagens:
 * 
 
